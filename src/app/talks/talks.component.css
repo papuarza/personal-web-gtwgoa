@@ -1,0 +1,40 @@
+.talks-row{
+  background-color: #EEEEEE;
+}
+
+.talks-row {
+  margin: 0px;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.card-container {
+  padding: 0px 30px;
+}
+
+.talks-text {
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+.talks-row hr {
+  width: 5%;
+  border: 2px solid #283593;
+  margin-bottom: 30px;
+}
+
+.spacer {
+  height: 100px;
+}
+
+.container {
+  width: 75%;
+}
+
+.second-row {
+  margin: -50px 0px 0px 0px;
+}
+
+.third-row {
+  margin: 100px 0px 0px 0px;
+}

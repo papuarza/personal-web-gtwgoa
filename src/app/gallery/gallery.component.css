@@ -1,0 +1,17 @@
+.col img {
+  width: 100%;
+}
+
+.gallery-row .col.s4 {
+  margin: 0px;
+  left: 0;
+  right: 0;
+  padding: 0px;
+  height: 200px;
+}
+
+.gallery-row {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}

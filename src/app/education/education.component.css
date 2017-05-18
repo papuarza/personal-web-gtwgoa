@@ -1,0 +1,82 @@
+.education-row {
+  margin: 0px;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.education-row hr {
+  width: 5%;
+  border: 2px solid #283593;
+  margin-bottom: 30px;
+}
+
+.item-icon {
+  float: right;
+  background-color: #3f51b5;
+  height: 100%;
+  width: 15%;
+  box-sizing: border-box;
+  padding: 0px 2%;
+  border-radius: 5px;
+}
+
+.item-icon-right {
+  float: left;
+  background-color: #3f51b5;
+  height: 100%;
+  width: 15%;
+  box-sizing: border-box;
+  padding: 0px 2%;
+  border-radius: 5px;
+}
+
+.item-icon i {
+  font-size: 4rem;
+  color: #e8eaf6;
+}
+
+.item-icon-right i {
+  font-size: 4rem;
+  color: #e8eaf6;
+}
+
+.education-item {
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.item-text {
+  text-align: right;
+  padding: 0px 100px 0px 0px;
+}
+
+.item-text-right {
+  text-align: left;
+  padding: 0px 0px 0px 100px;
+}
+
+.item-text h5 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0px 0px 0px 0px;
+}
+
+.item-text p {
+  font-size: 1.2rem;
+  font-weight: 100;
+  margin: 0px 0px 0px 0px;
+}
+
+.item-text-right h5 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0px 0px 0px 0px;
+}
+
+.item-text-right p {
+  font-size: 1.2rem;
+  font-weight: 100;
+  margin: 0px 0px 0px 0px;
+}

@@ -1,0 +1,39 @@
+.container {
+  width: 85%;
+}
+
+.page-footer {
+  background-color: #3f51b5;
+}
+
+.btn {
+  background-color: #e8eaf6;
+  color: #3f51b5;
+}
+
+.input-field input {
+  border-bottom: 1px solid #e8eaf6 ;
+  color: #e8eaf6;
+}
+
+.input-field textarea {
+  border-bottom: 1px solid #e8eaf6;
+  color: #e8eaf6;
+}
+
+.input-field label {
+  color: #e8eaf6;
+}
+
+.input-field input:focus {
+  border-bottom: 1px solid #80deea;
+  box-shadow: 0 0px 0 0 #80deea;
+}
+
+.input-field label:focus {
+  color: #e8eaf6;
+}
+
+#textarea1 {
+  height: 90px;
+}
