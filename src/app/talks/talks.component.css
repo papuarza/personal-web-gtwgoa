@@ -38,3 +38,20 @@
 .third-row {
   margin: 100px 0px 0px 0px;
 }
+
+@media (max-width: 600px) {
+  .talks-row {
+    width: 100%;
+    overflow: hidden;
+  }
+  .container {
+    width: 90%;
+    overflow: hidden;
+  }
+
+  .container .row {
+    margin: 0px;
+    overflow: hidden;
+  }
+
+}
