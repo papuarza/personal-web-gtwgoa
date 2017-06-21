@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { ChartModule } from 'angular2-chartjs'
+import { MasonryModule } from 'angular2-masonry';
 
 import { AppComponent } from './app.component';
 import { HeaderRowComponent } from './header-row/header-row.component';
@@ -28,7 +29,8 @@ import { OrganizationsComponent } from './organizations/organizations.component'
     BrowserModule,
     FormsModule,
     HttpModule,
-    ChartModule
+    ChartModule,
+    MasonryModule
   ],
   providers: [],
   bootstrap: [AppComponent]
