@@ -42,3 +42,10 @@
 .parallax-container img {
   filter: brightness(0.3);
 }
+
+@media (max-width: 600px) {
+  #home-page-text-expert {
+    line-height: 3.8rem;
+    font-size: 3.7rem;
+  }
+}

@@ -54,4 +54,12 @@
     overflow: hidden;
   }
 
+  .spacer {
+    display: none;
+  }
+
+  .card-container {
+    margin: 20px 0px 0px 0px;
+  }
+
 }

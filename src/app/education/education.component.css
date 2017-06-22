@@ -82,5 +82,11 @@
 }
 
 @media (max-width: 600px) {
+  .item-icon i, .item-icon-right i {
+    font-size: 2rem;
+  }
 
+  .item-icon, .item-icon-right {
+    padding: 0px 12px;
+  }
 }
