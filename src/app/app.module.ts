@@ -5,6 +5,7 @@ import { HttpModule } from '@angular/http';
 import { ChartModule } from 'angular2-chartjs'
 import { MasonryModule } from 'angular2-masonry';
 
+
 import { AppComponent } from './app.component';
 import { HeaderRowComponent } from './header-row/header-row.component';
 import { ExctractComponent } from './exctract/exctract.component';
@@ -13,6 +14,7 @@ import { TalksComponent } from './talks/talks.component';
 import { SkillsComponent } from './skills/skills.component';
 import { EducationComponent } from './education/education.component';
 import { OrganizationsComponent } from './organizations/organizations.component';
+import { QuoteRowComponent } from './quote-row/quote-row.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,8 @@ import { OrganizationsComponent } from './organizations/organizations.component'
     TalksComponent,
     SkillsComponent,
     EducationComponent,
-    OrganizationsComponent
+    OrganizationsComponent,
+    QuoteRowComponent
   ],
   imports: [
     BrowserModule,

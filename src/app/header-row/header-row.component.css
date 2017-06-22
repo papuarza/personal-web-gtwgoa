@@ -94,6 +94,38 @@
   color: #fff;
 }
 
-@media (max-width: 600px) {
+.home-page-text-wrapper {
+  width: 70%;
+  margin: 220px 0px 0px 150px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 5rem;
+}
 
+#home-page-text-expert {
+  font-weight: 100;
+  margin: 0px;
+  line-height: 5rem;
+}
+
+.home-page-text-wrapper p {
+  letter-spacing: 5px;
+  margin: 0px;
+  line-height: 5rem;
+}
+
+@media (max-width: 600px) {
+  .home-page-text-wrapper {
+    font-size: 3.5rem;
+    margin: 180px 0px 0px 40px;
+  }
+  .home-page-text-wrapper p {
+    line-height: 3.5rem;
+  }
+  #home-page-text-expert {
+    line-height: 3.5rem;
+  }
+  .nav {
+    display: none;
+  }
 }

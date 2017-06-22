@@ -33,6 +33,11 @@
 }
 
 @media (max-width: 600px) {
-
+  .skill-container {
+    margin: 45px 0px 0px 0px;
+  }
+  .skill {
+    margin: 45px 0px 0px 0px;
+  }
 
 }

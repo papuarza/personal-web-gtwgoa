@@ -14,7 +14,10 @@
   margin: 0px;
   padding: 0px;
   overflow: hidden;
+  /*filter: sepia() saturate(10000%) hue-rotate(30deg);*/
+	/*opacity: 0.5;*/
 }
+
 
 @media (max-width: 600px) {
   .gallery-row {

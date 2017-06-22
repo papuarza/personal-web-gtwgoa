@@ -14,5 +14,11 @@
 }
 
 @media (max-width: 600px) {
+  .extract-paragraph-min {
+    display: none;
+  }
 
+  .extract-paragraph {
+    margin: 40px 0px 0px 0px;
+  }
 }
